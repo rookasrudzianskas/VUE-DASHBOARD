@@ -1,4 +1,4 @@
-# dashboard2
+# VUE DASHBOARD by ROKAS
 
 ## Project setup
 ```
