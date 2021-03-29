@@ -1,7 +1,7 @@
 <template>
   <div class="app_wrapper">
     <header>
-      <h1>Chris's Dashboard</h1>
+      <h1>Rokas Dashboard</h1>
     </header>
     <div class="content">
       <aside>
